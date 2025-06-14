@@ -27,6 +27,7 @@ cd sutom
 
 Pour jouer à SUTOM, assurez-vous d'avoir Python installé sur votre machine (version 3.6 ou ultérieure).
 
+Il vous faudra la bdd (renomez la morphalou) : https://www.ortolang.fr/market/lexicons/morphalou/2.0
 
 # Clonez ce dépôt sur votre machine locale [Dépôt git du projet]
 git clone (https://code.up8.edu/stahri/motus_groupe2)
