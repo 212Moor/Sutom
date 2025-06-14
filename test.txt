@@ -1,0 +1,58 @@
+
+
+Bienvenue dans Sutom!
+Le mot à deviner comporte 4 lettres.
+Motif de départ : q___
+L'IA propose le mot :quel
+Vous avez 2 lettre(s) à la bonne place et 0 lettre(s) à la mauvaise place.
+Motif actuel :qu__
+L'IA propose le mot :quoi
+Vous avez 4 lettre(s) à la bonne place et 0 lettre(s) à la mauvaise place.
+Motif actuel :quoi
+Félicitations ! L'IA a deviné le mot : quoi.
+
+
+
+
+
+
+Bienvenue dans Sutom!
+Le mot à deviner comporte 5 lettres.
+Motif de départ : z____
+L'IA propose le mot :zoose
+Vous avez 2 lettre(s) à la bonne place et 1 lettre(s) à la mauvaise place.
+Motif actuel :z___e
+L'IA propose le mot :zébré
+Vous avez 1 lettre(s) à la bonne place et 0 lettre(s) à la mauvaise place.
+Motif actuel :z____
+L'IA propose le mot :ziste
+Vous avez 5 lettre(s) à la bonne place et 0 lettre(s) à la mauvaise place.
+Motif actuel :ziste
+Félicitations ! L'IA a deviné le mot : ziste.
+
+
+
+
+
+Bienvenue dans Sutom!
+Le mot à deviner comporte 5 lettres.
+Motif de départ : d____
+L'IA propose le mot :dalle
+Vous avez 3 lettre(s) à la bonne place et 0 lettre(s) à la mauvaise place.
+Motif actuel :da__e
+L'IA propose le mot :dzêta
+Vous avez 1 lettre(s) à la bonne place et 1 lettre(s) à la mauvaise place.
+Motif actuel :d____
+L'IA propose le mot :dalot
+Vous avez 2 lettre(s) à la bonne place et 0 lettre(s) à la mauvaise place.
+Motif actuel :da___
+L'IA propose le mot :durée
+Vous avez 3 lettre(s) à la bonne place et 0 lettre(s) à la mauvaise place.
+Motif actuel :d_r_e
+L'IA propose le mot :drome
+Vous avez 2 lettre(s) à la bonne place et 1 lettre(s) à la mauvaise place.
+Motif actuel :d___e
+L'IA propose le mot :delco
+Vous avez 1 lettre(s) à la bonne place et 1 lettre(s) à la mauvaise place.
+Motif actuel :d____
+Dommage ! Le mot à deviner était darne.
